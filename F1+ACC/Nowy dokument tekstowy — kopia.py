@@ -48,7 +48,7 @@ class Example(object):
         wheelSlipFL = getattr(Zmienne, 'wheelSlipFL')
         wheelSlipFR = getattr(Zmienne, 'wheelSlipFR')
         while wheelSlipRR != 0 or wheelSlipRL != 0 or wheelSlipFL != 0 or wheelSlipRL != 0:
-            print(wheelSlip)
+            print(wheelSlip)#print
 
             #print(Zmienne)
 ex = Example() # tutaj sie wykona funkcja __init__                                                                                                        
@@ -56,6 +56,7 @@ while(True):
     if __name__ == '__main__':        
         #time.sleep(1)
         ex.main()
+#update123
 #update123
 #update123
 #update123
