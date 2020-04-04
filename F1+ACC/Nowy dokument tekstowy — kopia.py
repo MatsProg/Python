@@ -48,6 +48,7 @@ class Example(object):
         wheelSlipFR = getattr(Zmienne, 'wheelSlipFR')
         while wheelSlipRR != 0 or wheelSlipRL != 0 or wheelSlipFL != 0 or wheelSlipRL != 0:
             print(wheelSlip)
+            
             #print(Zmienne)
 ex = Example() # tutaj sie wykona funkcja __init__                                                                                                        
 while(True):
