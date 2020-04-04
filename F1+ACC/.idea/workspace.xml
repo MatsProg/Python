@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54d170be-82d7-4bce-a211-0e656eaddefd" name="Default Changelist" comment="" />
+    <list default="true" id="54d170be-82d7-4bce-a211-0e656eaddefd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy dokument tekstowy — kopia.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nowy dokument tekstowy — kopia.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,10 +170,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="414" y="164" width="1092" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586011238290" />
-    <state x="739" y="251" key="FileChooserDialogImpl" timestamp="1586029251796">
+    <state x="739" y="251" key="FileChooserDialogImpl" timestamp="1586029925775">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="739" y="251" key="FileChooserDialogImpl/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586029251796" />
+    <state x="739" y="251" key="FileChooserDialogImpl/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586029925775" />
     <state width="1899" height="274" key="GridCell.Tab.0.bottom" timestamp="1586027563279">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -203,10 +206,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state width="1899" height="320" key="GridCell.Tab.1.right/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586011531810" />
-    <state x="461" y="152" key="SettingsEditor" timestamp="1586029550265">
+    <state x="461" y="152" key="SettingsEditor" timestamp="1586029928307">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="461" y="152" key="SettingsEditor/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586029550265" />
+    <state x="461" y="152" key="SettingsEditor/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586029928307" />
     <state x="661" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1585847548568">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>

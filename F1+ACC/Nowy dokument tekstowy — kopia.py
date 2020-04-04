@@ -56,24 +56,3 @@ while(True):
     if __name__ == '__main__':        
         #time.sleep(1)
         ex.main()
-        
-        
-
-"""
-if __name__ == '__main__':
-    Example().main()
-        
-    
-def Graph():
-    win = GraphWin("My Window", 500, 500)
-    win.setBackground("blue")
-    win.getMouse()
-    win.close()
-
-Zmienne = Liczby(packetId, gas, brake, fuel, gear, rpms, steerAngle, speedKmh, velocity1, velocity2,
-                             velocity3, accG1, accG2, accG3, wheelSlipFL, wheelSlipFR, wheelSlipRL, wheelSlipRR,
-                             wheelLoadFL, wheelLoadFR, wheelLoadRL, wheelLoadRR, wheelsPressureFL, wheelsPressureFR,
-                             wheelsPressureRL, wheelsPressureRR, wheelAngularSpeedFL, wheelAngularSpeedFR,
-                             wheelAngularSpeedRL, wheelAngularSpeedRR)
-
-"""
