@@ -27,6 +27,7 @@ class Example(object):
                                 'packetId gas brake fuel gear rpms steerAngle speedKmh velocity1 velocity2 velocity3 accG1 accG2 accG3 wheelSlipFL wheelSlipFR wheelSlipRL wheelSlipRR wheelLoadFL wheelLoadFR wheelLoadRL wheelLoadRR wheelsPressureFL wheelsPressureFR wheelsPressureRL wheelsPressureRR wheelAngularSpeedFL wheelAngularSpeedFR wheelAngularSpeedRL wheelAngularSpeedRR')
             self.ovl = Overlay()
 
+
     
     def main(self):        
             # najpierw musimy ustawic obiekt shm na poczatek
@@ -48,7 +49,7 @@ class Example(object):
         wheelSlipFR = getattr(Zmienne, 'wheelSlipFR')
         while wheelSlipRR != 0 or wheelSlipRL != 0 or wheelSlipFL != 0 or wheelSlipRL != 0:
             print(wheelSlip)
-            
+
             #print(Zmienne)
 ex = Example() # tutaj sie wykona funkcja __init__                                                                                                        
 while(True):
