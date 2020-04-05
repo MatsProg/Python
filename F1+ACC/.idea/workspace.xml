@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="54d170be-82d7-4bce-a211-0e656eaddefd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nowy dokument tekstowy — kopia.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nowy dokument tekstowy — kopia.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586077865015</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="dobre">
+      <created>1586113284224</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1586113284224</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -220,33 +226,34 @@
     </state>
     <state x="414" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586091359893" />
     <state x="414" y="164" width="1092" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586011238290" />
-    <state x="614" y="104" key="CommitChangelistDialog2" timestamp="1586077864402">
+    <state x="614" y="104" key="CommitChangelistDialog2" timestamp="1586113283567">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
+    <state x="614" y="104" key="CommitChangelistDialog2/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586113283567" />
     <state x="614" y="104" key="CommitChangelistDialog2/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077864402" />
     <state x="739" y="251" key="FileChooserDialogImpl" timestamp="1586029925775">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="739" y="251" key="FileChooserDialogImpl/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586029925775" />
-    <state width="1899" height="276" key="GridCell.Tab.0.bottom" timestamp="1586113262428">
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom" timestamp="1586113302542">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586113262428" />
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586113302542" />
     <state width="1899" height="274" key="GridCell.Tab.0.bottom/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
-    <state width="1899" height="276" key="GridCell.Tab.0.center" timestamp="1586113262428">
+    <state width="1899" height="276" key="GridCell.Tab.0.center" timestamp="1586113302542">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.center/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586113262428" />
+    <state width="1899" height="276" key="GridCell.Tab.0.center/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586113302542" />
     <state width="1899" height="274" key="GridCell.Tab.0.center/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
-    <state width="1899" height="276" key="GridCell.Tab.0.left" timestamp="1586113262428">
+    <state width="1899" height="276" key="GridCell.Tab.0.left" timestamp="1586113302542">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.left/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586113262428" />
+    <state width="1899" height="276" key="GridCell.Tab.0.left/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586113302542" />
     <state width="1899" height="274" key="GridCell.Tab.0.left/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
-    <state width="1899" height="276" key="GridCell.Tab.0.right" timestamp="1586113262428">
+    <state width="1899" height="276" key="GridCell.Tab.0.right" timestamp="1586113302542">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.right/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586113262428" />
+    <state width="1899" height="276" key="GridCell.Tab.0.right/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586113302542" />
     <state width="1899" height="274" key="GridCell.Tab.0.right/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
     <state width="1899" height="320" key="GridCell.Tab.1.bottom" timestamp="1586042741262">
       <screen x="0" y="0" width="1920" height="1019" />
@@ -272,9 +279,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="661" y="333" key="com.intellij.ide.util.TipDialog/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1585847548568" />
-    <state x="769" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586077868170">
+    <state x="769" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586113313330">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
+    <state x="769" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586113313330" />
     <state x="769" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077868170" />
   </component>
 </project>
