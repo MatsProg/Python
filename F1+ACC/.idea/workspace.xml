@@ -42,28 +42,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Nowy dokument tekstowy — kopia">
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="graphics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\MatsProg\PycharmProjects\untitled\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.moj">
     <configuration name="Nowy dokument tekstowy — kopia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="graphics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,34 +58,13 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nowy dokument tekstowy — kopia.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Nowy dokument tekstowy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="graphics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\MatsProg\PycharmProjects\untitled\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nowy dokument tekstowy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bityF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="moj" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="graphics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bityF.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moj.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,18 +85,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.1" />
-      <item itemvalue="Python.Nowy dokument tekstowy — kopia" />
-      <item itemvalue="Python.Nowy dokument tekstowy" />
-      <item itemvalue="Python.bityF" />
-    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.moj" />
         <item itemvalue="Python.Nowy dokument tekstowy — kopia" />
-        <item itemvalue="Python.bityF" />
-        <item itemvalue="Python.1" />
-        <item itemvalue="Python.Nowy dokument tekstowy" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586072007099</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="dobre">
+      <created>1586077865015</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1586077865015</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -242,7 +199,8 @@
     <MESSAGE value="5" />
     <MESSAGE value="1" />
     <MESSAGE value="przed updatebite" />
-    <option name="LAST_COMMIT_MESSAGE" value="przed updatebite" />
+    <MESSAGE value="dobre" />
+    <option name="LAST_COMMIT_MESSAGE" value="dobre" />
   </component>
   <component name="WindowStateProjectService">
     <state x="679" y="124" key="#1" timestamp="1585581652658">
@@ -257,34 +215,39 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="679" y="124" key="#Nowy_dokument_tekstowy_—_kopia/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1585581513215" />
-    <state x="414" y="164" width="1092" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586011238290">
+    <state x="414" y="164" width="1092" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586091359893">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
+    <state x="414" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586091359893" />
     <state x="414" y="164" width="1092" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586011238290" />
-    <state x="614" y="104" key="CommitChangelistDialog2" timestamp="1586072006383">
+    <state x="614" y="104" key="CommitChangelistDialog2" timestamp="1586077864402">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="614" y="104" key="CommitChangelistDialog2/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586072006383" />
+    <state x="614" y="104" key="CommitChangelistDialog2/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077864402" />
     <state x="739" y="251" key="FileChooserDialogImpl" timestamp="1586029925775">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="739" y="251" key="FileChooserDialogImpl/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586029925775" />
-    <state width="1899" height="274" key="GridCell.Tab.0.bottom" timestamp="1586077226708">
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom" timestamp="1586113262428">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="274" key="GridCell.Tab.0.bottom/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077226708" />
-    <state width="1899" height="274" key="GridCell.Tab.0.center" timestamp="1586077226708">
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586113262428" />
+    <state width="1899" height="274" key="GridCell.Tab.0.bottom/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
+    <state width="1899" height="276" key="GridCell.Tab.0.center" timestamp="1586113262428">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="274" key="GridCell.Tab.0.center/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077226708" />
-    <state width="1899" height="274" key="GridCell.Tab.0.left" timestamp="1586077226707">
+    <state width="1899" height="276" key="GridCell.Tab.0.center/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586113262428" />
+    <state width="1899" height="274" key="GridCell.Tab.0.center/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
+    <state width="1899" height="276" key="GridCell.Tab.0.left" timestamp="1586113262428">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="274" key="GridCell.Tab.0.left/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077226707" />
-    <state width="1899" height="274" key="GridCell.Tab.0.right" timestamp="1586077226708">
+    <state width="1899" height="276" key="GridCell.Tab.0.left/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586113262428" />
+    <state width="1899" height="274" key="GridCell.Tab.0.left/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
+    <state width="1899" height="276" key="GridCell.Tab.0.right" timestamp="1586113262428">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="274" key="GridCell.Tab.0.right/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077226708" />
+    <state width="1899" height="276" key="GridCell.Tab.0.right/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586113262428" />
+    <state width="1899" height="274" key="GridCell.Tab.0.right/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
     <state width="1899" height="320" key="GridCell.Tab.1.bottom" timestamp="1586042741262">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -309,9 +272,9 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="661" y="333" key="com.intellij.ide.util.TipDialog/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1585847548568" />
-    <state x="769" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586072017649">
+    <state x="769" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586077868170">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="769" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586072017649" />
+    <state x="769" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077868170" />
   </component>
 </project>

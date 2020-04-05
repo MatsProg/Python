@@ -4,6 +4,7 @@ from struct import *
 from collections import namedtuple
 import math
 import time
+from moj import *
 
 def konwersSlip(wartosc):
         wartosc = wartosc / 5
