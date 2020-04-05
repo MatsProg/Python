@@ -6,11 +6,14 @@ import math
 import time
 
 def konwersSlip(wartosc):
-        wartosc = wartosc / 50
+        wartosc = wartosc / 5
         wartosc = max(wartosc, 0)
         wartosc = min(wartosc, 1)
         math.radians(wartosc)
-        abs(wartosc)
+        #pow(wartosc, (wartosc+10)**10)
+       # round(wartosc,2)
+        #pow(wartosc,wartosc)
+       # "{:.2f}".format(wartosc)
         return wartosc
 
 class Example(object):
@@ -32,11 +35,11 @@ class Example(object):
         
         Zmienne = self.Liczby._make(unpack('ifffiiffffffffffffffffffffffff', bajty))
             
-        wheelSlip = konwersSlip(getattr(Zmienne, 'wheelSlipFL')), konwersSlip(getattr(Zmienne, 'wheelSlipFR')), konwersSlip(getattr(Zmienne, 'wheelSlipRL')), konwersSlip(getattr(Zmienne, 'wheelSlipRR'))
+        wheelSlip = pow(konwersSlip(getattr(Zmienne, 'wheelSlipFL')),3), pow(konwersSlip(getattr(Zmienne, 'wheelSlipFR')),3), pow(konwersSlip(getattr(Zmienne, 'wheelSlipRL')),2), pow(konwersSlip(getattr(Zmienne, 'wheelSlipRR')), 2)
 
             
         
-        self.ovl.updateWheelSlip(wheelSlip[2], wheelSlip[3], wheelSlip[0], wheelSlip[1])
+        self.ovl.updateWheelSlip(wheelSlip[2], wheelSlip[3], wheelSlip[0], wheelSlip[1]) #[FL, FR, RL, RR]
 
         wheelSlipRR = getattr(Zmienne, 'wheelSlipRR')
         wheelSlipRL = getattr(Zmienne, 'wheelSlipRL')
