@@ -1,20 +1,15 @@
-#from mmap import *
 import mmap
 from overlay import *
-from ctypes import *
-#from threading import *
-#import os
 from struct import *
 from collections import namedtuple
-import inspect
-
-#from time import *
+import math
 import time
 
 def konwersSlip(wartosc):
-        wartosc = wartosc / 5
+        wartosc = wartosc / 50
         wartosc = max(wartosc, 0)
         wartosc = min(wartosc, 1)
+        math.radians(wartosc)
         abs(wartosc)
         return wartosc
 
@@ -47,7 +42,7 @@ class Example(object):
         wheelSlipRL = getattr(Zmienne, 'wheelSlipRL')
         wheelSlipFL = getattr(Zmienne, 'wheelSlipFL')
         wheelSlipFR = getattr(Zmienne, 'wheelSlipFR')
-        while wheelSlipRR != 0 or wheelSlipRL != 0 or wheelSlipFL != 0 or wheelSlipRL != 0:
+        if wheelSlipRR != 0 or wheelSlipRL != 0 or wheelSlipFL != 0 or wheelSlipRL != 0:
             print(wheelSlip)#print
 
             #print(Zmienne)
@@ -56,7 +51,3 @@ while(True):
     if __name__ == '__main__':        
         #time.sleep(1)
         ex.main()
-#update123
-#update123
-#update123
-#update123
