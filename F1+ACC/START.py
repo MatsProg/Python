@@ -2,21 +2,10 @@ import mmap
 from overlay import *
 from struct import *
 from collections import namedtuple
+from obliczenia import Obliczenia as Ob
 import math
 import time
-from moj import Obliczenia as Ob
 
-
-def konwersSlip1(wartosc):
-    wartosc = wartosc / 5
-    wartosc = max(wartosc, 0)
-    wartosc = min(wartosc, 1)
-    math.radians(wartosc)
-    # pow(wartosc, (wartosc+10)**10)
-    # round(wartosc,2)
-    # pow(wartosc,wartosc)
-    # "{:.2f}".format(wartosc)
-    return wartosc
 
 
 class Example(object):
@@ -32,23 +21,11 @@ class Example(object):
         self.mmapPhysic.seek(0)  # to mowi zeby zaczac czytac od 0
         self.bytesValue = self.mmapPhysic.read(120)  # obiekt shm teraz wskazuje na +120 znakow
         self.unpackTuple = self.bityTuple._make(unpack('ifffiiffffffffffffffffffffffff', self.bytesValue))
-        self.wheelSlip = Ob.konwersSlip(getattr(self.unpackTuple, 'wheelSlipFL'),3), Ob.konwersSlip(getattr(self.unpackTuple, 'wheelSlipFR'),3), Ob.konwersSlip(getattr(self.unpackTuple, 'wheelSlipRL'),2), Ob.konwersSlip(getattr(self.unpackTuple, 'wheelSlipRR'),2)
+        self.wheelSlip = Ob.konwersSlip(getattr(self.unpackTuple, 'wheelSlipFL'), 3), Ob.konwersSlip(getattr(self.unpackTuple, 'wheelSlipFR'), 3), Ob.konwersSlip(getattr(self.unpackTuple, 'wheelSlipRL'),2), Ob.konwersSlip(getattr(self.unpackTuple, 'wheelSlipRR'), 2)
 
-   # Ob.konwersSlip()
     def main(self):
-        # najpierw musimy ustawic obiekt shm na poczatek
 
-        self.ovl.updateWheelSlip(self.wheelSlip[2], self.wheelSlip[3], self.wheelSlip[0],
-                                 self.wheelSlip[1])  # [FL, FR, RL, RR]
-
-    #  wheelSlipRR = getattr(Zmienne, 'wheelSlipRR')
-    #  wheelSlipRL = getattr(Zmienne, 'wheelSlipRL')
-    #   wheelSlipFL = getattr(Zmienne, 'wheelSlipFL')
-    #  wheelSlipFR = getattr(Zmienne, 'wheelSlipFR')
-    #  if wheelSlipRR != 0 or wheelSlipRL != 0 or wheelSlipFL != 0 or wheelSlipRL != 0:
-    #    print(wheelSlip)#print
-
-    # print(Zmienne)
+        self.ovl.updateWheelSlip(self.wheelSlip[2], self.wheelSlip[3], self.wheelSlip[0], self.wheelSlip[1])  # [FL, FR, RL, RR]
 
 
 ex = Example()  # tutaj sie wykona funkcja __init__

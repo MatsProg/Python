@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54d170be-82d7-4bce-a211-0e656eaddefd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zapas Nowy dokument tekstowy — kopia — kopia.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nowy dokument tekstowy — kopia.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nowy dokument tekstowy — kopia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moj.py" beforeDir="false" afterPath="$PROJECT_DIR$/moj.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy dokument tekstowy — kopia.py" beforeDir="false" afterPath="$PROJECT_DIR$/START.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bityF.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/moj.py" beforeDir="false" afterPath="$PROJECT_DIR$/obliczenia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nowyStart.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +54,8 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Nowy dokument tekstowy — kopia">
-    <configuration name="Nowy dokument tekstowy — kopia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.START">
+    <configuration name="START" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="graphics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,28 +67,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nowy dokument tekstowy — kopia.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="moj" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="graphics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moj.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\MatsProg\Documents\GitHub\Python\F1+ACC\START.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,10 +97,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="obliczenia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="graphics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\MatsProg\Documents\GitHub\Python\F1+ACC\obliczenia.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Nowy dokument tekstowy — kopia" />
-        <item itemvalue="Python.moj" />
+        <item itemvalue="Python.START" />
+        <item itemvalue="Python.obliczenia" />
         <item itemvalue="Python.nowyStart" />
       </list>
     </recent_temporary>
@@ -240,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586117017366</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="update">
+      <created>1586281733636</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1586281733636</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -261,7 +270,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="przed updatebite" />
     <MESSAGE value="dobre" />
-    <option name="LAST_COMMIT_MESSAGE" value="dobre" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="679" y="124" key="#1" timestamp="1585581652658">
@@ -281,34 +291,34 @@
     </state>
     <state x="414" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586091359893" />
     <state x="414" y="164" width="1092" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586011238290" />
-    <state x="614" y="104" key="CommitChangelistDialog2" timestamp="1586281719748">
+    <state x="614" y="104" key="CommitChangelistDialog2" timestamp="1586281732408">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="614" y="104" key="CommitChangelistDialog2/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586281719748" />
+    <state x="614" y="104" key="CommitChangelistDialog2/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586281732408" />
     <state x="614" y="104" key="CommitChangelistDialog2/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077864402" />
     <state x="739" y="251" key="FileChooserDialogImpl" timestamp="1586029925775">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="739" y="251" key="FileChooserDialogImpl/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586029925775" />
-    <state width="1899" height="276" key="GridCell.Tab.0.bottom" timestamp="1586281643035">
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom" timestamp="1586283815860">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586281643035" />
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586283815860" />
     <state width="1899" height="274" key="GridCell.Tab.0.bottom/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
-    <state width="1899" height="276" key="GridCell.Tab.0.center" timestamp="1586281643035">
+    <state width="1899" height="276" key="GridCell.Tab.0.center" timestamp="1586283815860">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.center/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586281643035" />
+    <state width="1899" height="276" key="GridCell.Tab.0.center/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586283815860" />
     <state width="1899" height="274" key="GridCell.Tab.0.center/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
-    <state width="1899" height="276" key="GridCell.Tab.0.left" timestamp="1586281643035">
+    <state width="1899" height="276" key="GridCell.Tab.0.left" timestamp="1586283815860">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.left/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586281643035" />
+    <state width="1899" height="276" key="GridCell.Tab.0.left/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586283815860" />
     <state width="1899" height="274" key="GridCell.Tab.0.left/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
-    <state width="1899" height="276" key="GridCell.Tab.0.right" timestamp="1586281643035">
+    <state width="1899" height="276" key="GridCell.Tab.0.right" timestamp="1586283815860">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.right/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586281643035" />
+    <state width="1899" height="276" key="GridCell.Tab.0.right/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586283815860" />
     <state width="1899" height="274" key="GridCell.Tab.0.right/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
     <state width="1899" height="320" key="GridCell.Tab.1.bottom" timestamp="1586281457380">
       <screen x="0" y="0" width="1920" height="1019" />
