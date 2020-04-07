@@ -24,7 +24,7 @@ class mmapbity:
         self.Zmienne = self.Liczby._make(unpack('ifffiiffffffffffffffffffffffff', self.bajty))
         self.wheelSlip = pow(konwersSlip(getattr(self.Zmienne, 'wheelSlipFL')),3), pow(konwersSlip(getattr(self.Zmienne, 'wheelSlipFR')),3), pow(konwersSlip(getattr(self.Zmienne, 'wheelSlipRL')),2), pow(konwersSlip(getattr(self.Zmienne, 'wheelSlipRR')), 2)
         print('Odbieranie bitow z funkcji')
-        return self.wheelSlip
+        #return self.wheelSlip
 
-obiekt1 = mmapbity()
-obiekt1.odbieranieBitow1()
+#obiekt1 = mmapbity()
+#obiekt1.odbieranieBitow1()
