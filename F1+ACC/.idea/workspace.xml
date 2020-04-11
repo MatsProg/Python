@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54d170be-82d7-4bce-a211-0e656eaddefd" name="Default Changelist" comment="" />
+    <list default="true" id="54d170be-82d7-4bce-a211-0e656eaddefd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +49,28 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.guitest">
+  <component name="RunManager" selected="Python.START (1)">
+    <configuration name="START (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="graphics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/START.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="START" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="graphics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,27 +134,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="obliczenia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="graphics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\MatsProg\Documents\GitHub\Python\F1+ACC\obliczenia.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="usage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="graphics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.START (1)" />
         <item itemvalue="Python.guitest" />
         <item itemvalue="Python.usage" />
         <item itemvalue="Python.constrainedlayout_guide" />
         <item itemvalue="Python.START" />
-        <item itemvalue="Python.obliczenia" />
       </list>
     </recent_temporary>
   </component>
@@ -349,6 +351,10 @@
     </state>
     <state x="414" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586091359893" />
     <state x="414" y="164" width="1092" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586011238290" />
+    <state x="690" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586552645266">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="690" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586552645266" />
     <state x="614" y="104" key="CommitChangelistDialog2" timestamp="1586529561297">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -358,25 +364,25 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="739" y="251" key="FileChooserDialogImpl/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586029925775" />
-    <state width="1899" height="276" key="GridCell.Tab.0.bottom" timestamp="1586529568760">
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom" timestamp="1586552652431">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586529568760" />
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586552652431" />
     <state width="1899" height="274" key="GridCell.Tab.0.bottom/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
-    <state width="1899" height="276" key="GridCell.Tab.0.center" timestamp="1586529568759">
+    <state width="1899" height="276" key="GridCell.Tab.0.center" timestamp="1586552652431">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.center/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586529568759" />
+    <state width="1899" height="276" key="GridCell.Tab.0.center/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586552652431" />
     <state width="1899" height="274" key="GridCell.Tab.0.center/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
-    <state width="1899" height="276" key="GridCell.Tab.0.left" timestamp="1586529568759">
+    <state width="1899" height="276" key="GridCell.Tab.0.left" timestamp="1586552652431">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.left/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586529568759" />
+    <state width="1899" height="276" key="GridCell.Tab.0.left/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586552652431" />
     <state width="1899" height="274" key="GridCell.Tab.0.left/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
-    <state width="1899" height="276" key="GridCell.Tab.0.right" timestamp="1586529568760">
+    <state width="1899" height="276" key="GridCell.Tab.0.right" timestamp="1586552652431">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.right/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586529568760" />
+    <state width="1899" height="276" key="GridCell.Tab.0.right/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586552652431" />
     <state width="1899" height="274" key="GridCell.Tab.0.right/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
     <state width="1899" height="320" key="GridCell.Tab.1.bottom" timestamp="1586284168134">
       <screen x="0" y="0" width="1920" height="1019" />
