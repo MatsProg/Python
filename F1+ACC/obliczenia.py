@@ -9,3 +9,4 @@ class Obliczenia:
         wartosc = min(wartosc, 1)
         math.radians(wartosc)
         return pow(wartosc, x)
+
