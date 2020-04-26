@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54d170be-82d7-4bce-a211-0e656eaddefd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progbar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenGL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/graphics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/graphics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/START.py" beforeDir="false" afterPath="$PROJECT_DIR$/START.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obliczenia.py" beforeDir="false" afterPath="$PROJECT_DIR$/obliczenia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcode.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcode.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../pyt/Conda1" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -57,8 +55,29 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.testcode">
+  <component name="RunManager" selected="Python.START (1)">
     <configuration name="START (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="graphics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/START.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="glfwTEST" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="graphics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/START.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\MatsProg\Documents\GitHub\Python\F1+ACC\glfwTEST.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,27 +140,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testcode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="graphics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcode.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="usage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="graphics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,9 +163,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.testcode" />
-        <item itemvalue="Python.progbar" />
         <item itemvalue="Python.START (1)" />
+        <item itemvalue="Python.glfwTEST" />
+        <item itemvalue="Python.progbar" />
         <item itemvalue="Python.guitest" />
         <item itemvalue="Python.usage" />
       </list>
@@ -331,7 +329,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586586104046</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="update">
+      <created>1587296132408</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1587296132408</updated>
+    </task>
+    <task id="LOCAL-00023" summary="update">
+      <created>1587296140513</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1587296140513</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -368,50 +380,56 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="679" y="124" key="#Nowy_dokument_tekstowy_—_kopia/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1585581513215" />
-    <state x="414" y="164" width="1092" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586091359893">
-      <screen x="0" y="0" width="1920" height="1019" />
+    <state x="566" y="-1080" key="#START_(1)" timestamp="1587666824442">
+      <screen x="0" y="-1080" width="1920" height="1019" />
     </state>
+    <state x="566" y="-1080" key="#START_(1)/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587666824442" />
+    <state x="414" y="-916" width="1092" height="782" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587660449712">
+      <screen x="0" y="-1080" width="1920" height="1019" />
+    </state>
+    <state x="414" y="-916" width="1092" height="782" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587660449712" />
     <state x="414" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586091359893" />
     <state x="414" y="164" width="1092" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586011238290" />
     <state x="690" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586552645266">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="690" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586552645266" />
-    <state x="614" y="-1080" key="CommitChangelistDialog2" timestamp="1587296131564">
+    <state x="614" y="-1080" key="CommitChangelistDialog2" timestamp="1587296139762">
       <screen x="0" y="-1080" width="1920" height="1019" />
     </state>
-    <state x="614" y="-1080" key="CommitChangelistDialog2/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587296131564" />
+    <state x="614" y="-1080" key="CommitChangelistDialog2/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587296139762" />
     <state x="614" y="104" key="CommitChangelistDialog2/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586586102578" />
     <state x="614" y="104" key="CommitChangelistDialog2/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077864402" />
-    <state x="739" y="251" key="FileChooserDialogImpl" timestamp="1586029925775">
-      <screen x="0" y="0" width="1920" height="1019" />
-    </state>
-    <state x="739" y="251" key="FileChooserDialogImpl/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586029925775" />
-    <state width="1887" height="265" key="GridCell.Tab.0.bottom" timestamp="1587292199482">
+    <state x="518" y="-902" key="FileChooserDialogImpl" timestamp="1587659864934">
       <screen x="0" y="-1080" width="1920" height="1019" />
     </state>
-    <state width="1887" height="265" key="GridCell.Tab.0.bottom/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587292199482" />
+    <state x="518" y="-902" key="FileChooserDialogImpl/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587659864934" />
+    <state x="739" y="251" key="FileChooserDialogImpl/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586029925775" />
+    <state width="1887" height="265" key="GridCell.Tab.0.bottom" timestamp="1587666840568">
+      <screen x="0" y="-1080" width="1920" height="1019" />
+    </state>
+    <state width="1887" height="265" key="GridCell.Tab.0.bottom/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587666840568" />
     <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586552652431" />
     <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1019@0.0.1920.1019" timestamp="1587282874587" />
     <state width="1899" height="274" key="GridCell.Tab.0.bottom/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
-    <state width="1887" height="265" key="GridCell.Tab.0.center" timestamp="1587292199482">
+    <state width="1887" height="265" key="GridCell.Tab.0.center" timestamp="1587666840568">
       <screen x="0" y="-1080" width="1920" height="1019" />
     </state>
-    <state width="1887" height="265" key="GridCell.Tab.0.center/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587292199482" />
+    <state width="1887" height="265" key="GridCell.Tab.0.center/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587666840568" />
     <state width="1899" height="276" key="GridCell.Tab.0.center/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586552652431" />
     <state width="1899" height="276" key="GridCell.Tab.0.center/0.0.1920.1019@0.0.1920.1019" timestamp="1587282874587" />
     <state width="1899" height="274" key="GridCell.Tab.0.center/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
-    <state width="1887" height="265" key="GridCell.Tab.0.left" timestamp="1587292199482">
+    <state width="1887" height="265" key="GridCell.Tab.0.left" timestamp="1587666840568">
       <screen x="0" y="-1080" width="1920" height="1019" />
     </state>
-    <state width="1887" height="265" key="GridCell.Tab.0.left/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587292199482" />
+    <state width="1887" height="265" key="GridCell.Tab.0.left/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587666840568" />
     <state width="1899" height="276" key="GridCell.Tab.0.left/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586552652431" />
     <state width="1899" height="276" key="GridCell.Tab.0.left/0.0.1920.1019@0.0.1920.1019" timestamp="1587282874587" />
     <state width="1899" height="274" key="GridCell.Tab.0.left/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
-    <state width="1887" height="265" key="GridCell.Tab.0.right" timestamp="1587292199482">
+    <state width="1887" height="265" key="GridCell.Tab.0.right" timestamp="1587666840568">
       <screen x="0" y="-1080" width="1920" height="1019" />
     </state>
-    <state width="1887" height="265" key="GridCell.Tab.0.right/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587292199482" />
+    <state width="1887" height="265" key="GridCell.Tab.0.right/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587666840568" />
     <state width="1899" height="276" key="GridCell.Tab.0.right/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586552652431" />
     <state width="1899" height="276" key="GridCell.Tab.0.right/0.0.1920.1019@0.0.1920.1019" timestamp="1587282874587" />
     <state width="1899" height="274" key="GridCell.Tab.0.right/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586077874066" />
@@ -435,10 +453,10 @@
     </state>
     <state width="1899" height="320" key="GridCell.Tab.1.right/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586284168134" />
     <state width="1899" height="320" key="GridCell.Tab.1.right/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586042741262" />
-    <state x="443" y="-1080" key="SettingsEditor" timestamp="1587285252293">
+    <state x="443" y="-1080" key="SettingsEditor" timestamp="1587659877885">
       <screen x="0" y="-1080" width="1920" height="1019" />
     </state>
-    <state x="443" y="-1080" key="SettingsEditor/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587285252293" />
+    <state x="443" y="-1080" key="SettingsEditor/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587659877885" />
     <state x="461" y="152" key="SettingsEditor/0.0.1920.1019@0.0.1920.1019" timestamp="1586627496999" />
     <state x="461" y="152" key="SettingsEditor/1920.0.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586031145326" />
     <state x="661" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1585847548568">
