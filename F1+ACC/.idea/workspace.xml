@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54d170be-82d7-4bce-a211-0e656eaddefd" name="Default Changelist" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/graphics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/graphics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="54d170be-82d7-4bce-a211-0e656eaddefd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -347,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595073122717</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="update">
+      <created>1595073197405</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1595073197405</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -392,12 +395,12 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="547" y="0" key="#progbar/0.0.1920.1019@0.0.1920.1019" timestamp="1593676719325" />
-    <state x="614" y="0" key="CommitChangelistDialog2" timestamp="1595073121827">
+    <state x="614" y="0" key="CommitChangelistDialog2" timestamp="1595073196773">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="614" y="-1080" key="CommitChangelistDialog2/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587296139762" />
     <state x="614" y="104" key="CommitChangelistDialog2/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586586102578" />
-    <state x="614" y="0" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1595073121827" />
+    <state x="614" y="0" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1595073196773" />
     <state x="518" y="-902" key="FileChooserDialogImpl" timestamp="1587659864934">
       <screen x="0" y="-1080" width="1920" height="1019" />
     </state>
