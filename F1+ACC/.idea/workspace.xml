@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54d170be-82d7-4bce-a211-0e656eaddefd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="54d170be-82d7-4bce-a211-0e656eaddefd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -352,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595073197405</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="update">
+      <created>1601310604684</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1601310604684</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -385,9 +390,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="547" y="0" key="#progbar/0.0.1920.1019@0.0.1920.1019" timestamp="1593676719325" />
-    <state x="614" y="0" key="CommitChangelistDialog2" timestamp="1595073196773">
-      <screen x="0" y="0" width="1920" height="1019" />
+    <state x="614" y="0" key="CommitChangelistDialog2" timestamp="1601310603986">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="614" y="0" key="CommitChangelistDialog2/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601310603986" />
     <state x="614" y="0" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1595073196773" />
     <state width="1887" height="243" key="GridCell.Tab.0.bottom" timestamp="1593676729205">
       <screen x="0" y="0" width="1920" height="1019" />
