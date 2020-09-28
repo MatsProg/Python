@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54d170be-82d7-4bce-a211-0e656eaddefd" name="Default Changelist" comment="" />
+    <list default="true" id="54d170be-82d7-4bce-a211-0e656eaddefd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -379,18 +381,6 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="578" y="152" key="#Inspections/0.0.1920.1019@0.0.1920.1019" timestamp="1595073134736" />
-    <state x="566" y="-1080" key="#START_(1)" timestamp="1587666824442">
-      <screen x="0" y="-1080" width="1920" height="1019" />
-    </state>
-    <state x="566" y="-1080" key="#START_(1)/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587666824442" />
-    <state x="414" y="-916" width="1092" height="782" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587660449712">
-      <screen x="0" y="-1080" width="1920" height="1019" />
-    </state>
-    <state x="414" y="-916" width="1092" height="782" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587660449712" />
-    <state x="690" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586552645266">
-      <screen x="0" y="0" width="1920" height="1019" />
-    </state>
-    <state x="690" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586552645266" />
     <state x="547" y="0" key="#progbar" timestamp="1593676719325">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -398,50 +388,27 @@
     <state x="614" y="0" key="CommitChangelistDialog2" timestamp="1595073196773">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="614" y="-1080" key="CommitChangelistDialog2/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587296139762" />
-    <state x="614" y="104" key="CommitChangelistDialog2/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586586102578" />
     <state x="614" y="0" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1595073196773" />
-    <state x="518" y="-902" key="FileChooserDialogImpl" timestamp="1587659864934">
-      <screen x="0" y="-1080" width="1920" height="1019" />
-    </state>
-    <state x="518" y="-902" key="FileChooserDialogImpl/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587659864934" />
     <state width="1887" height="243" key="GridCell.Tab.0.bottom" timestamp="1593676729205">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1887" height="265" key="GridCell.Tab.0.bottom/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587666840568" />
-    <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586552652431" />
     <state width="1887" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1019@0.0.1920.1019" timestamp="1593676729205" />
     <state width="1887" height="243" key="GridCell.Tab.0.center" timestamp="1593676729205">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1887" height="265" key="GridCell.Tab.0.center/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587666840568" />
-    <state width="1899" height="276" key="GridCell.Tab.0.center/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586552652431" />
     <state width="1887" height="243" key="GridCell.Tab.0.center/0.0.1920.1019@0.0.1920.1019" timestamp="1593676729205" />
     <state width="1887" height="243" key="GridCell.Tab.0.left" timestamp="1593676729204">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1887" height="265" key="GridCell.Tab.0.left/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587666840568" />
-    <state width="1899" height="276" key="GridCell.Tab.0.left/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586552652431" />
     <state width="1887" height="243" key="GridCell.Tab.0.left/0.0.1920.1019@0.0.1920.1019" timestamp="1593676729204" />
     <state width="1887" height="243" key="GridCell.Tab.0.right" timestamp="1593676729205">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="1887" height="265" key="GridCell.Tab.0.right/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587666840568" />
-    <state width="1899" height="276" key="GridCell.Tab.0.right/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586552652431" />
     <state width="1887" height="243" key="GridCell.Tab.0.right/0.0.1920.1019@0.0.1920.1019" timestamp="1593676729205" />
-    <state x="443" y="-1080" key="SettingsEditor" timestamp="1587659877885">
-      <screen x="0" y="-1080" width="1920" height="1019" />
+    <state x="91" y="-1080" width="1686" height="999" maximized="true" key="dock-window-1" timestamp="1600614364493">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="443" y="-1080" key="SettingsEditor/0.-1080.1920.1019/0.0.1920.1019@0.-1080.1920.1019" timestamp="1587659877885" />
-    <state x="461" y="152" key="SettingsEditor/0.0.1920.1019@0.0.1920.1019" timestamp="1586627496999" />
-    <state x="769" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586586093793">
-      <screen x="0" y="0" width="1920" height="1019" />
-    </state>
-    <state x="769" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1586586093793" />
-    <state x="623" y="219" width="672" height="678" key="search.everywhere.popup" timestamp="1586627271256">
-      <screen x="0" y="0" width="1920" height="1019" />
-    </state>
-    <state x="623" y="219" width="672" height="678" key="search.everywhere.popup/0.0.1920.1019@0.0.1920.1019" timestamp="1586627271256" />
+    <state x="91" y="-1080" width="1686" height="999" maximized="true" key="dock-window-1/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1599298678420" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
